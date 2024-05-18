@@ -1,6 +1,6 @@
 # BI Project To Showcase On Your Portfolio <br>
 Bike Sales Analysis bi Project <br>
-In this repository you will find files and Power BI report regarding the tutorial on YouTube. <br>
+In this repository you will find Power BI report regarding the tutorial on YouTube. <br>
 
 - How to import data in Power BI desktop
 - How to create a personalized background for Power BI dashboard
