@@ -12,3 +12,4 @@ In this repository you will find Power BI report regarding the tutorial on YouTu
 - How to use bookmark with button
 ![image](https://github.com/ibritics/BI_Project/assets/90762709/7da761be-5dbf-4736-9f0b-ff32c0a43752)
 
+I mad  also a YouTube tutorial available on [Link](https://www.youtube.com/watch?v=01fIrkYNdEw&t=2880s)
