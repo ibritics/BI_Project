@@ -10,5 +10,5 @@ In this repository you will find Power BI report regarding the tutorial on YouTu
 - Time intelligence functions
 - How to use switch function 
 - How to use bookmark with button
+![image](https://github.com/ibritics/BI_Project/assets/90762709/7da761be-5dbf-4736-9f0b-ff32c0a43752)
 
-![image](https://github.com/ibritics/BI_Project/assets/90762709/765ca21e-fca3-4773-bd09-18d8e06328ae)
