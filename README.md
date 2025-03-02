@@ -10,6 +10,9 @@ In this repository you will find Power BI report regarding the tutorial on YouTu
 - Time intelligence functions
 - How to use switch function 
 - How to use bookmark with button
-![image](https://github.com/ibritics/BI_Project/assets/90762709/7da761be-5dbf-4736-9f0b-ff32c0a43752)
+- How to add a dynamic titles which changes according selected value in filter
+- How to add a switch column with userelationship and selected value
+![image](https://github.com/user-attachments/assets/4519748a-23c5-4f8f-91e6-91eeb900f115)
+
 
 I mad  also a YouTube tutorial available on [Link](https://www.youtube.com/watch?v=01fIrkYNdEw&t=2880s)
