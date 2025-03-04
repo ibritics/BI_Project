@@ -15,4 +15,4 @@ In this repository you will find Power BI report regarding the tutorial on YouTu
 ![image](https://github.com/user-attachments/assets/4519748a-23c5-4f8f-91e6-91eeb900f115)
 
 
-I mad  also a YouTube tutorial available on [Link](https://www.youtube.com/watch?v=01fIrkYNdEw&t=2880s)
+I made  also a YouTube tutorial available on [Link](https://www.youtube.com/watch?v=01fIrkYNdEw&t=2880s)
