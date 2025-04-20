@@ -12,6 +12,8 @@ In this repository you will find Power BI report regarding the tutorial on YouTu
 - How to use bookmark with button
 - How to add a dynamic titles which changes according selected value in filter
 - How to add a switch column with userelationship and selected value
+- Time intelligence DAX function to calculate YTD
+
 ![image](https://github.com/user-attachments/assets/4519748a-23c5-4f8f-91e6-91eeb900f115)
 
 
